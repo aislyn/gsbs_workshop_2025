@@ -1,4 +1,4 @@
-# gsbs_workshop_2021
+# gsbs_workshop_2024
 
 These are the files for the GSBS workshop orientation introduction to data science.
 
